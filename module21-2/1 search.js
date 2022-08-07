@@ -18,3 +18,5 @@ let searchString4 = "tOmi";
 lyrics1 = lyrics1.toLowerCase();
 searchString4 = searchString4.toLowerCase();
 console.log(lyrics1.includes(searchString4));
+
+console.log(lyrics1.indexOf("kala"));
