@@ -34,3 +34,17 @@ console.log(Math.floor(b));
 
 let c = 2.4598;
 console.log(Math.ceil(c));
+
+let result2 = Math.random();
+console.log(result2);
+
+let result3 = Math.random() * 100;
+console.log(result3);
+
+let result4 = Math.round(Math.random() * 100);
+console.log(result4);
+
+for (let i = 0; i < 20; i++) {
+  let random = Math.round(Math.random() * 6);
+  console.log(random);
+}
