@@ -25,6 +25,13 @@
 
 - 21-6 Can you find out who will get the delicious cake?
 
+- - Homework :
+- - write a function that will take 3 numbers will return the max number
+- - wirte a function that will take 3 parameters and will return the min number
+- - first time do it using if else
+- - second time do it using Math.min or Math.max
+
 - 21-7 Who is the tallest? Find the max number in an array
 
--
+- - homework :
+- - write a function to get the lowest number in an array.
