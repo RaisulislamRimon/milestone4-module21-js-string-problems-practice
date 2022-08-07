@@ -21,3 +21,32 @@ console.log(lyrics1.includes(searchString4));
 
 console.log(lyrics1.indexOf("kala"));
 console.log(lyrics1.indexOf("kala kala"));
+
+console.log(lyrics1.indexOf("tomi"));
+console.log(lyrics1.indexOf("sada"));
+console.log(lyrics1.indexOf("kala"));
+console.log(lyrics1.indexOf("pakhi"));
+console.log(lyrics1.indexOf("ami"));
+
+if (lyrics1.indexOf("kala") === -1) {
+  console.log("can not find");
+} else {
+  console.log("find");
+}
+
+// starts with
+// lyrics1.startsWith('tomi');
+console.log(lyrics1.startsWith("tomi"));
+console.log(lyrics1.startsWith("tmi"));
+
+// ends with
+let myBio = "Rimon.pdf";
+let myPic = "other.png";
+// myBio.endsWith(myPic);
+console.log(myBio.endsWith(myPic));
+
+// ends with
+let myBio1 = "Rimon.pdf";
+let myPic1 = "Rimon.pdf";
+// myBio1.endsWith(myPic1);
+console.log(myBio1.endsWith(myPic1));
