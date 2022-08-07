@@ -31,3 +31,7 @@ if (userName1.toLowerCase() === userInput1.toLowerCase()) {
 } else {
   console.log("not equal");
 }
+
+
+const userName3 = "blackPink";
+// console.log(userInput.toLocaleLowerCase())
