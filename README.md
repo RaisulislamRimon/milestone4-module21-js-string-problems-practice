@@ -8,3 +8,9 @@
 
 - 21-2 Apply Search includes, indexOf, startswith, endswith
 - 21-3 How to split, slice, substr, substring, concat, join
+- - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+- - string.at()
+- - string.lastIndexOf()
+- - string.trim()
+- - string.concat()
+- - string.join()
