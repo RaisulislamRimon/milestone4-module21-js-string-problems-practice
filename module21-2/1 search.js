@@ -20,3 +20,4 @@ searchString4 = searchString4.toLowerCase();
 console.log(lyrics1.includes(searchString4));
 
 console.log(lyrics1.indexOf("kala"));
+console.log(lyrics1.indexOf("kala kala"));
