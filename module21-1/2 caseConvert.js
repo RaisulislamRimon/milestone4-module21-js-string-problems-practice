@@ -10,6 +10,15 @@ const userInput = "blackPinK";
 
 if (userName === userInput) {
   console.log("equal");
-}   else {
+} else {
+  console.log("not equal");
+}
+
+const userName1 = "blackPink";
+const userInput1 = "blackPinK";
+
+if (userName1.toLowerCase() === userInput1.toLowerCase()) {
+  console.log("equal");
+} else {
   console.log("not equal");
 }
