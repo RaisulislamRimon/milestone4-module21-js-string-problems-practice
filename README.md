@@ -25,4 +25,6 @@
 
 - 21-6 Can you find out who will get the delicious cake?
 
-- -
+- 21-7 Who is the tallest? Find the max number in an array
+
+-
