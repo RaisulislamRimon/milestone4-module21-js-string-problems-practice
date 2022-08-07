@@ -14,6 +14,15 @@ if (userName === userInput) {
   console.log("not equal");
 }
 
+const userName2 = "blackPink";
+const userInput2 = "blackPinK";
+
+if (userName2.toLowerCase() === userInput2) {
+  console.log("equal");
+} else {
+  console.log("not equal");
+}
+
 const userName1 = "blackPink";
 const userInput1 = "blackPinK";
 
