@@ -14,3 +14,5 @@
 - - string.trim()
 - - string.concat()
 - - string.join()
+- 21-4 Math, abs, pow, round, ceil, floor, and random number
+- -
