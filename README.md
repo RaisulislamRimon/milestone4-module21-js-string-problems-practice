@@ -36,7 +36,11 @@
 - - homework :
 - - write a function to get the lowest number in an array.
 
-- 21-8 Reverse a string and Reverse words in a sentence
+- 21-8 Reverse a string and Reverse words in a sentence/array
 
-- -
+- 21-9 (advanced) Create a Fibonacci Series using a for loop
+
+- - fibonacci number
+- - https://www.google.com/search?q=fibonacci+series&rlz=1C1UEAD_enBD1015BD1015&oq=fibonacc&aqs=chrome.1.46i131i433i512j0i131i433i512l2j0i20i263i512j0i512j69i57j0i131i433i512j69i60.3623j0j7&sourceid=chrome&ie=UTF-8
+- - https://en.wikipedia.org/wiki/Fibonacci_number
 - -
