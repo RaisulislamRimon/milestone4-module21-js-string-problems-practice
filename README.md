@@ -35,3 +35,8 @@
 
 - - homework :
 - - write a function to get the lowest number in an array.
+
+- 21-8 Reverse a string and Reverse words in a sentence
+
+- -
+- -
